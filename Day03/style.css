@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    color: aqua;
+}
+
+
+#name-display {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#previous-btn{
+    background-color:black;
+    color: white;
+    padding: 16px;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 16px;
+}
+ #next-btn{
+    background-color:black;
+    color: white;
+    padding: 16px;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 16px;
+}
+h1{
+    color: white;
+}
+#name-display{
+    color: white;
+}
+
+h2{
+    color: white;
+}
